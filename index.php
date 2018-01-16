@@ -1,5 +1,6 @@
 <?php
 
-	echo "Quale rapaziada";
+	echo "Quale rapaziada123";
+	echo "Olá Macedo";
 
 ?>
